@@ -39,6 +39,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 Veja como ficou: 
 ![Imagem](https://uploaddeimagens.com.br/images/004/417/159/full/tela1.png?1680579279)
-https://uploaddeimagens.com.br/imagens/YABdCGg">
+
  
 
