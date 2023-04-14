@@ -39,7 +39,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 Veja como ficou: 
 
-<a href="https://uploaddeimagens.com.br/imagens/YABdCGg"><a/>
+<a href="https://uploaddeimagens.com.br/imagens/YABdCGg">
+  <img src="https://uploaddeimagens.com.br/imagens/YABdCGg"><a/>
 
 <a href="https://uploaddeimagens.com.br/imagens/fuDDC40"><a/>
 
